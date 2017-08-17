@@ -1,0 +1,32 @@
+p {
+ text-align: left;
+ color: blue;
+}
+h1 {
+ text-align: center;
+ color: black;
+font-style:italic;
+}
+
+.right {
+	float:right;
+	width: 300px;
+	padding:20px;
+}
+.left {
+	float:left;
+	width: 300px;
+	padding:20px;
+}
+
+p {
+ text-align: center;
+ color: black;
+font-style:italic;
+}
+
+h2 {
+ text-align: center;
+ color: black;
+font-style:italic;
+}
